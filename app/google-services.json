@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "605988441911",
+    "firebase_url": "https://tecnologico-9fe61.firebaseio.com",
+    "project_id": "tecnologico-9fe61",
+    "storage_bucket": "tecnologico-9fe61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605988441911:android:fd13a77a09013b00ad14b2",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u5_practica1_romerobautistabryanhassiel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605988441911-rqud96frrprdb3cqo4v2k15s68ebqdvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGSuu0jtP-QgqFWvkt4awIcaKpAQgK4-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605988441911-rqud96frrprdb3cqo4v2k15s68ebqdvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
